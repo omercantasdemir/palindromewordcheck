@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\omerc\\source\\repos\\palindrome\\palindrome\\palindrome.csproj",
+      "projectUniqueName": "C:\\Users\\omerc\\Source\\Repos\\palindromewordcheck\\palindrome\\palindrome.csproj",
       "projectName": "palindrome",
-      "projectPath": "C:\\Users\\omerc\\source\\repos\\palindrome\\palindrome\\palindrome.csproj",
+      "projectPath": "C:\\Users\\omerc\\Source\\Repos\\palindromewordcheck\\palindrome\\palindrome.csproj",
       "packagesPath": "C:\\Users\\omerc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\omerc\\source\\repos\\palindrome\\palindrome\\obj\\",
+      "outputPath": "C:\\Users\\omerc\\Source\\Repos\\palindromewordcheck\\palindrome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
